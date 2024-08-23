@@ -1,4 +1,3 @@
-**[Illustration, Animation, Design](https://cranjah-studios.myportfolio.com/)**\
 **[Amateur Science & Hobbyist Research](https://cranjah-hobbyist-research.myportfolio.com/)**
 
 
