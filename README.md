@@ -1,4 +1,4 @@
-**[Amateur Science & Hobbyist Research](https://cranjah-hobbyist-research.myportfolio.com/)**
+**[Hobby Research & Amateur Science](https://cranjah-hobbyist-research.myportfolio.com/)**
 
 
 ### Informatics Skills
