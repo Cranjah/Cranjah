@@ -33,7 +33,7 @@ Geometry and formulas, fundamentals of functions and elementary functions, integ
 ### Contact Information
 
 - [Linktree](https://linktr.ee/marcmichelmuench)
-- [LinkedIn](https://www.linkedin.com/in/marcmichelmuench)
+- [Linkedin](https://www.linkedin.com/in/marcmichelmuench)
 
 
 ### Spoken Languages
