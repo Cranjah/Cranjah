@@ -18,7 +18,7 @@ In programming, I am syntactically and algorithmically most advanced in Python3 
 Propositional logic, sets, Venn diagrams, de Morgan formulas, number sets N, Z and Q, arithmetic rules, decimal fractions, divisibility;
 
 **Real numbers, elementary arithmetic and simple equations**\
-Powers and roots, special features from, for example, √2 and π - number set R, sums with ∑ (sigma) and products with ∏ (pi), induction principle, Pascal's triangle, binomial formulas, linear and quadratic equations, rule of three;
+Powers and roots, special features of √2 and π - number set R, sums with ∑ (sigma) and products with ∏ (pi), induction principle, Pascal's triangle, binomial formulas, linear and quadratic equations, rule of three;
 
 **Sequences, series and limits**\
 Asymptotic behavior, convergence and divergence of limits towards zero and infinity, recursively defined sequences, arithmetic series;
