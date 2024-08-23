@@ -13,18 +13,18 @@ Dual student of computer science (Bachelor) from 2025 until probably 2028 at [DB
 ### Mathematics Skills
 
 **Elementary set theory and number ranges**\
-Propositional logic, sets, Venn diagrams, de Morgan formulas, number sets N, Z and Q, arithmetic rules, decimal fractions, divisibility;\
+Propositional logic, sets, Venn diagrams, de Morgan formulas, number sets N, Z and Q, arithmetic rules, decimal fractions, divisibility;
 
 **Real numbers, elementary arithmetic and simple equations**\
-Powers and roots, special features from, for example, √2 and π - number set R, sums with ∑ (sigma) and products with ∏ (pi), induction principle, Pascal's triangle, binomial formulas, linear and quadratic equations, rule of three;\
+Powers and roots, special features from, for example, √2 and π - number set R, sums with ∑ (sigma) and products with ∏ (pi), induction principle, Pascal's triangle, binomial formulas, linear and quadratic equations, rule of three;
 
 **Sequences, series and limits**\
-Asymptotic behavior, convergence and divergence of limits towards zero and infinity, recursively defined sequences, arithmetic series;\
+Asymptotic behavior, convergence and divergence of limits towards zero and infinity, recursively defined sequences, arithmetic series;
 
 **Probability theory**\
 Binomial coefficient, combinatorics, probability, Laplace formula, Bernoulli distribution;
 
-**And many more - I'm constantly learning new things in math!**\
+**And many more - I'm constantly learning new things in math!**
 
 
 ### Contact Information
@@ -38,7 +38,7 @@ Binomial coefficient, combinatorics, probability, Laplace formula, Bernoulli dis
 German (mother tongue), English (fluent);
 
 
-## Certificates in CS
+## Certificates in Computer Science
 
 <details>
   <summary>Click here to view my certificates in computer science!</summary>
@@ -61,7 +61,7 @@ German (mother tongue), English (fluent);
     <img alt="Introduction to Cyberwar, Surveillance and Security by University of Adelaide via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-06.png" width="350">
   </span>
   <span>
-    <img alt="Open Online Course on Fighting Cybercrime by Friedrich-Alexander-University" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-07.png" width="700">
+    <img alt="Open Online Course on Fighting Cybercrime by Friedrich-Alexander-University" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-07.png" width="703">
   </span>
     <span>
     <img alt="Introduction to Programming with Python by Harvard University via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-08.png" width="350">
