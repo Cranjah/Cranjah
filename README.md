@@ -58,7 +58,7 @@ German (mother tongue), English (fluent);
     <img alt="Introduction to Cyberwar, Surveillance and Security by University of Adelaide via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-06.png" width="350">
   </span>
   <span>
-    <img alt="Open Online Course on Fighting Cybercrime by Friedrich-Alexander-University" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-07.png" width="703">
+    <img alt="Open Online Course on Fighting Cybercrime by Friedrich-Alexander-University" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-07.png" width="704">
   </span>
     <span>
     <img alt="Introduction to Programming with Python by Harvard University via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-08.png" width="350">
