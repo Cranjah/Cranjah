@@ -3,7 +3,7 @@
 
 ### Informatics Skills
 
-Dual student of computer science (Bachelor) from fall 2025 until probably fall 2028 at [DB Systel GmbH](https://www.dbsystel.de/dbsystel) and [Berlin School of Economics and Law](https://www.hwr-berlin.de/) and with this later on probably software engineer - but so far, I'm just a regular everyday normal programmer and amateur scientist with a background in graphic design.
+Dual student of computer science (Bachelor) from fall 2025 until probably fall 2028 at [DB Systel GmbH](https://www.dbsystel.de/dbsystel) and [Berlin School of Economics and Law](https://www.hwr-berlin.de/) and with this later on probably software engineer - but so far, I'm just a regular everyday normal programmer and amateur scientist with a background in graphic design, illustration and animation.
 
 **(+++)** Use of Adobe Creative Cloud programs (especially Photoshop, Lightroom, Illustrator, InDesign,Animate, After Effects, Xd, Bridge, Dimension), operation of drum machines and synthesizers from the KORG product range;\
 **(++)** Visual Studio Code, CLIs, UX / UI design, HTML5 and CSS3 web design, social networks, cyber security and IT forensics in theory, Search Engine Optimization (SEO), operating systems: Windows, MacOS, Linux;\
