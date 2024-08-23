@@ -41,7 +41,7 @@ Geometry and formulas, fundamentals of functions and elementary functions, integ
 German (mother tongue), English (fluent);
 
 
-## Certificates in Computer Science
+### Certificates in Computer Science
 
 <details>
   <summary>Click here to view my certificates in computer science!</summary>
