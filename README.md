@@ -26,7 +26,7 @@ Asymptotic behavior, convergence and divergence of limits towards zero and infin
 **Probability theory**\
 Binomial coefficient, combinatorics, probability, Laplace formula, Bernoulli distribution;
 
-**And many more - I'm constantly learning new things in math!**\
+**And many more - I'm constantly learning new things in math**\
 Fundamentals of functions and elementary functions, integrals, main theorem of differential and integral calculus, explicit solving of linear systems of equations and quadratic equations, basic geometry and formulas;
 
 
