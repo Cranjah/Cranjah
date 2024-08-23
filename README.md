@@ -5,26 +5,26 @@
 
 Dual student of computer science (Bachelor) from 2025 until probably 2028 at [DB Systel GmbH](https://www.dbsystel.de/dbsystel) and [Berlin School of Economics and Law](https://www.hwr-berlin.de/) and with this later on probably software engineer - but so far, just a regular everyday normal programmer and amateur scientist with a background in graphic design.
 
-**(+++)** Use of Adobe Creative Cloud programs (especially Photoshop, Lightroom, Illustrator, InDesign,Animate, After Effects, Xd, Bridge, Dimension), operation of drum machines and synthesizers from the KORG product range;
-**(++)** Visual Studio Code, CLIs, UX / UI design, HTML5 and CSS3 web design, social networks, cyber security and IT forensics in theory, Search Engine Optimization (SEO), operating systems: Windows, MacOS, Linux;
+**(+++)** Use of Adobe Creative Cloud programs (especially Photoshop, Lightroom, Illustrator, InDesign,Animate, After Effects, Xd, Bridge, Dimension), operation of drum machines and synthesizers from the KORG product range;\
+**(++)** Visual Studio Code, CLIs, UX / UI design, HTML5 and CSS3 web design, social networks, cyber security and IT forensics in theory, Search Engine Optimization (SEO), operating systems: Windows, MacOS, Linux;\
 **(+)** So far only beginner's knowledge of programming and query languages: JavaScript, SQL, MySQL, Python;
 
 
 ### Mathematics Skills
 
-**Elementary set theory and number ranges**
-Propositional logic, sets, Venn diagrams, de Morgan formulas, number sets N, Z and Q, arithmetic rules, decimal fractions, divisibility;
+**Elementary set theory and number ranges**\
+Propositional logic, sets, Venn diagrams, de Morgan formulas, number sets N, Z and Q, arithmetic rules, decimal fractions, divisibility;\
 
-**Real numbers, elementary arithmetic and simple equations**
-Powers and roots, special features from, for example, √2 and π - number set R, sums with ∑ (sigma) and products with ∏ (pi), induction principle, Pascal's triangle, binomial formulas, linear and quadratic equations, rule of three;
+**Real numbers, elementary arithmetic and simple equations**\
+Powers and roots, special features from, for example, √2 and π - number set R, sums with ∑ (sigma) and products with ∏ (pi), induction principle, Pascal's triangle, binomial formulas, linear and quadratic equations, rule of three;\
 
-**Sequences, series and limits**
-Asymptotic behavior, convergence and divergence of limits towards zero and infinity, recursively defined sequences, arithmetic series;
+**Sequences, series and limits**\
+Asymptotic behavior, convergence and divergence of limits towards zero and infinity, recursively defined sequences, arithmetic series;\
 
-**Probability theory**
+**Probability theory**\
 Binomial coefficient, combinatorics, probability, Laplace formula, Bernoulli distribution;
 
-**And many more - I'm constantly learning new things in math!**
+**And many more - I'm constantly learning new things in math!**\
 
 
 ### Contact Information
