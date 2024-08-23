@@ -46,12 +46,6 @@ German (mother tongue), English (fluent);
 <details>
   <summary>Click here to view my certificates in computer science!</summary>
   <span>
-    <img alt="Vocational Training in Graphic Design, Final Certificate v1" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-01.png" width="350">
-  </span>
-  <span>
-    <img alt="Vocational Training in Graphic Design, Final Certificate v2" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-02.png" width="350">
-  </span>
-  <span>
     <img alt="Introduction to Linux by Linux Foundation via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-03.png" width="350">
   </span>
   <span>
