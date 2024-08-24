@@ -9,7 +9,7 @@ Dual student of computer science (Bachelor) from fall 2025 until probably fall 2
 **(++)** Visual Studio Code, CLIs, UX / UI design, HTML5 and CSS3 web design, social networks, cyber security and IT forensics in theory, Search Engine Optimization (SEO), operating systems: Windows, macOS, Linux;\
 **(+)** So far only beginner's knowledge of programming and query languages: JavaScript, SQL, MySQL, Python;
 
-In programming, I am syntactically and algorithmically most advanced in Python3 - here I have learned mainly about functions, variables, conditionals, loops, exceptions, libraries, unit tests, file I/O, regular expressions, object-oriented programming, etc. within multiple online courses;
+In programming, I'm syntactically and algorithmically most advanced in Python3 - here I have learned mainly about functions, variables, conditionals, loops, exceptions, libraries, unit tests, file I/O, regular expressions, object-oriented programming, etc. within multiple online courses;
 
 
 ### Mathematics Skills
