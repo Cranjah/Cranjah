@@ -6,7 +6,7 @@
 Dual student of computer science (Bachelor) from fall 2025 until probably fall 2028 and with this later on probably software engineer - but so far, I'm just a regular everyday normal programmer and amateur scientist with a background in graphic design, illustration and animation based in Berlin.
 
 **(+++)** Use of Adobe Creative Cloud programs (especially Photoshop, Lightroom, Illustrator, InDesign, Animate, After Effects, Xd, Bridge, Dimension), operation of drum machines and synthesizers from the KORG product range;\
-**(++)** Visual Studio Code, CLIs, UX / UI design, HTML5 and CSS3 web design, social networks, cyber security and IT forensics in theory, Search Engine Optimization (SEO), operating systems: Windows, MacOS, Linux;\
+**(++)** Visual Studio Code, CLIs, UX / UI design, HTML5 and CSS3 web design, social networks, cyber security and IT forensics in theory, Search Engine Optimization (SEO), operating systems: Windows, macOS, Linux;\
 **(+)** So far only beginner's knowledge of programming and query languages: JavaScript, SQL, MySQL, Python;
 
 In programming, I am syntactically and algorithmically most advanced in Python3 - here I have learned mainly about functions, variables, conditionals, loops, exceptions, libraries, unit tests, file I/O, regular expressions, object-oriented programming, etc. within multiple online courses;
@@ -58,7 +58,10 @@ German (mother tongue), English (fluent);
     <img alt="Introduction to Cyberwar, Surveillance and Security by University of Adelaide via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-06.png" width="350">
   </span>
   <span>
-    <img alt="Open Online Course on Fighting Cybercrime by Friedrich-Alexander-University" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-07.png" width="703">
+    <img alt="Vocational Training in Graphic Design - Final Certificate" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-02.png" width="350">
+  </span>
+  <span>
+    <img alt="Open Online Course on Fighting Cybercrime by Friedrich-Alexander-University" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-07.png" width="350">
   </span>
     <span>
     <img alt="Introduction to Programming with Python by Harvard University via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-08.png" width="350">
