@@ -46,7 +46,7 @@ German (mother tongue), English (fluent);
 ...solving the MissingNo. riddle in the Pokémon versions Red and Blue for the Nintendo Game Boy. The Pokémon No. 000 (MissingNo.) was inspired by medical sonography during a pneumothorax examination, as there is the so-called Seashore-Sign in M-Mode in normal findings; [See hobby scientific article for my findings (written in German)](https://cranjah-hobbyist-research.myportfolio.com/the-missingno-mystery)
 
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cranjah)
-![github stats](https://github-readme-stats.vercel.app/api?username=Cranjah&show_icons=true&count_private=true&line_height=40)
+![github stats](https://github-readme-stats.vercel.app/api?username=Cranjah&show_icons=true&count_private=true&line_height=30)
 
 
 ## Certificates in Computer Science
