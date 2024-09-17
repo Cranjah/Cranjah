@@ -61,6 +61,9 @@ German (mother tongue), English (fluent);
     <img alt="Vocational Training in Graphic Design - Final Certificate v2" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-16.png" width="350">
   </span>
   <span>
+    <img alt="Open Online Course on Elements of AI by University of Helsinki" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-19.png" width="703">
+  </span>
+  <span>
     <img alt="Introduction to Linux by Linux Foundation via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-03.png" width="350">
   </span>
   <span>
@@ -98,8 +101,5 @@ German (mother tongue), English (fluent);
   </span>
   <span>
     <img alt="Pre-College-Course on Mathematics by University of Würzburg" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-15.png" width="350">
-  </span>
-  <span>
-    <img alt="Open Online Course on Elements of AI by University of Helsinki" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-19.png" width="703">
   </span>
 </details>
