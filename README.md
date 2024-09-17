@@ -13,7 +13,7 @@ In programming, I'm syntactically and algorithmically most advanced in Python3 -
 
 
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cranjah)
-![github stats](https://github-readme-stats.vercel.app/api?username=Cranjah&show_icons=true&count_private=true&line_height=40)
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=Cranjah&show_icons=true&count_private=true&line_height=40) -->
 
 
 ### Mathematics Skills
