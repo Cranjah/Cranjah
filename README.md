@@ -99,4 +99,7 @@ German (mother tongue), English (fluent);
   <span>
     <img alt="Pre-College-Course on Mathematics by University of Würzburg" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-15.png" width="350">
   </span>
+  <span>
+    <img alt="Open Online Course on Elements of AI by University of Helsinki" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-19.png" width="703">
+  </span>
 </details>
