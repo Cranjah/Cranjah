@@ -1,3 +1,7 @@
+  <span>
+    <img alt="Super Mario Pixel Artwork" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Super-Mario-Pixels.gif">
+  </span>
+
 **[Hobbyist Research & Amateur Science](https://cranjah-hobbyist-research.myportfolio.com/)**
 
 
