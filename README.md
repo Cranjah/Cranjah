@@ -73,7 +73,10 @@ German (mother tongue), English (fluent);
     <img alt="Introduction to Cyberwar, Surveillance and Security by University of Adelaide via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-06.png" width="350">
   </span>
   <span>
-    <img alt="Open Online Course on Fighting Cybercrime by Friedrich-Alexander-University" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-07.png" width="703">
+    <img alt="Pre-College-Course on Mathematics by Hasso-Plattner-Institut via openHPI" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-21.png" width="350">
+  </span>
+  <span>
+    <img alt="Open Online Course on Fighting Cybercrime by Friedrich-Alexander-University" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-07.png" width="350">
   </span>
     <span>
     <img alt="Introduction to Programming with Python by Harvard University via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-08.png" width="350">
@@ -100,9 +103,9 @@ German (mother tongue), English (fluent);
     <img alt="Pre-College-Course on Mathematics by University of Würzburg" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-15.png" width="350">
   </span>
   <span>
-    <img alt="Open Online Course on Python Programming by University of Helsinki" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-17.png" width="703">
+    <img alt="Open Online Course on Python Programming by University of Helsinki" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-17.png" width="350">
   </span>
   <span>
-    <img alt="Open Online Course on Elements of AI by University of Helsinki" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-19.png" width="703">
+    <img alt="Open Online Course on Elements of AI by University of Helsinki" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-19.png" width="350">
   </span>
 </details>
