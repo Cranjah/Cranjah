@@ -106,6 +106,6 @@ German (mother tongue), English (fluent);
     <img alt="Open Online Course on Elements of AI by University of Helsinki" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-19.png" width="703">
   </span>
   <span>
-    <img alt="Pre-College-Course on Mathematics by Hasso-Plattner-Institut via openHPI" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-21.png" width="350">
+    <img alt="Pre-College-Course on Mathematics by Hasso-Plattner-Institut via openHPI" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-21.png" width="703">
   </span>
 </details>
