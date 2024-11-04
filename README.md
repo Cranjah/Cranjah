@@ -106,15 +106,15 @@ German (mother tongue), English (fluent);
     <img alt="Open Online Course on Elements of AI by University of Helsinki" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-19.png" width="703">
   </span>
   <span>
-    <img alt="Pre-College-Course on Mathematics by Hasso-Plattner-Institut via openHPI" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-23.png" width="350">
-  </span>
-  <span>
-    <img alt="Pre-College-Course on Mathematics by Hasso-Plattner-Institut via openHPI" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-21.png" width="350">
-  </span>
-  <span>
     <img alt="Pre-College-Course on Python Programming by Hasso-Plattner-Institut via openHPI" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-24.png" width="350">
   </span>
   <span>
     <img alt="Pre-College-Course on Python Programming by Hasso-Plattner-Institut via openHPI" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-22.png" width="350">
+  </span>
+  <span>
+    <img alt="Pre-College-Course on Mathematics by Hasso-Plattner-Institut via openHPI" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-23.png" width="350">
+  </span>
+  <span>
+    <img alt="Pre-College-Course on Mathematics by Hasso-Plattner-Institut via openHPI" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-21.png" width="350">
   </span>
 </details>
