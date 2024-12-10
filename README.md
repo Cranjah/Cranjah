@@ -103,6 +103,9 @@ German (mother tongue), English (fluent);
     <img alt="Open Online Course on Python Programming by University of Helsinki" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-17.png" width="703">
   </span>
   <span>
+    <img alt="Open Online Course on Python Programming by University of Helsinki" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-18.png" width="703">
+  </span>
+  <span>
     <img alt="Open Online Course on Elements of AI by University of Helsinki" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-19.png" width="703">
   </span>
   <span>
