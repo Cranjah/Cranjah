@@ -121,6 +121,9 @@ German (mother tongue), English (fluent);
     <img alt="Pre-College-Course on Mathematics by Hasso-Plattner-Institut via openHPI" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-21.png" width="350">
   </span>
   <span>
-    <img alt="Pre-College-Course on Mathematics by Technische Hochschule Rosenheim" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-25.png" width="703">
+    <img alt="Pre-College-Course on Mathematics by Hasso-Plattner-Institut via openHPI" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-23.png" width="350">
+  </span>
+  <span>
+    <img alt="Pre-College-Course on Mathematics by Technische Hochschule Rosenheim" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-25.png" width="350">
   </span>
 </details>
