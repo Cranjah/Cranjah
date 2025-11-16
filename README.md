@@ -5,9 +5,9 @@
 
 Dual student of computer science (Bachelor) from fall 2025 until probably fall 2028 and with this later on probably software engineer - but so far, I'm just a regular everyday normal programmer and amateur scientist with a background in graphic design, illustration and animation based in Berlin.
 
-**(+++)** Use of Adobe Creative Cloud programs (especially Photoshop, Lightroom, Illustrator, InDesign, Animate, After Effects, Xd, Bridge, Dimension), operation of drum machines and synthesizers from the KORG product range;\
+**(+++)** Use of Adobe Creative Cloud programs (especially Photoshop, Lightroom, Illustrator, InDesign, Premiere Pro, After Effects, Xd, Dimension, Bridge), operation of drum machines and synthesizers from the KORG product range;\
 **(++)** Python3, Visual Studio Code, CLIs, UX / UI design, HTML5 and CSS3 web design, social networks, cyber security and IT forensics in theory, Search Engine Optimization (SEO), operating systems: Windows, macOS, Linux;\
-**(+)** So far only beginner's knowledge of these programming and query languages: JavaScript, SQL, MySQL;
+**(+)** So far only beginner's knowledge of these programming and query languages: C, JavaScript, SQL, MySQL;
 
 In programming, I'm syntactically and algorithmically most advanced in Python3 - here I have learned mainly about functions, variables, conditionals, loops, exceptions, libraries, unit tests, file I/O, regular expressions, object-oriented programming, etc. within multiple online courses;
 
