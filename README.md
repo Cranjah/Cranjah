@@ -21,16 +21,16 @@ In programming, I'm syntactically and algorithmically most advanced in Python3 -
 Propositional logic, sets, Venn diagrams, de Morgan formulas, number sets N, Z and Q, arithmetic rules, decimal fractions, divisibility;
 
 **Real numbers, elementary arithmetic and simple equations**\
-Powers and roots, special features of √2 and π - number set R, sums with ∑ (sigma) and products with ∏ (pi), induction principle, Pascal's triangle, binomial formulas, linear and quadratic equations, rule of three;
+Powers and roots, special features of √2 and π - number set R, sums with ∑ (sigma) and products with ∏ (pi), fundamentals of the induction principle, binomial formulas, linear and quadratic equations, rule of three;
 
 **Sequences, series and limits**\
-Asymptotic behavior, convergence and divergence of limits towards zero and infinity, recursively defined sequences, arithmetic series;
+Asymptotic behavior, convergence and divergence of limits towards zero and infinity, arithmetic series, recursively defined sequences like the faculty function, the Fibonacci sequence and the Euclidean algorithm;
 
 **Probability theory**\
-Binomial coefficient, combinatorics, probability, Laplace formula, Bernoulli distribution;
+Binomial coefficient and Pascal's triangle, fundamentals of combinatorics and probability, Laplace formula, Bernoulli distribution;
 
 **And many more - I'm constantly learning new things in math**\
-Geometry and formulas, fundamentals of functions and elementary functions, integrals, main theorem of differential and integral calculus, graphs and algorithms, colorability, trees, navigation with the Dijkstra algorithm;
+Basic geometry and its formulas, functions and elementary functions, fundamentals of graphs and algorithms, colorability, trees;
 
 
 ### Contact Information
