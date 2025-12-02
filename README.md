@@ -27,7 +27,7 @@ Powers and roots, special features of √2 and π - number set R, sums with ∑ 
 Asymptotic behavior, convergence and divergence of limits towards zero and infinity, arithmetic series, recursively defined sequences like the faculty function, the Fibonacci sequence and the Euclidean algorithm;
 
 **Probability theory**\
-Binomial coefficient and Pascal's triangle, fundamentals of combinatorics and probability, Laplace formula, Bernoulli distribution;
+Binomial coefficient and Pascal's triangle, fundamentals of combinatorics and probability, Laplace formula, Bernoulli distribution, relative frequency;
 
 **And many more - I'm constantly learning new things in math**\
 Basic geometry and its formulas, functions and elementary functions, fundamentals of graphs and algorithms, colorability, trees;
