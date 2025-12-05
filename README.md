@@ -3,7 +3,7 @@
 
 ### Informatics Skills
 
-Dual student of computer science (Bachelor) from fall 2025 until probably fall 2028 and with this later on probably software engineer - but so far, I'm just a regular everyday normal programmer and amateur scientist with a background in graphic design, illustration and animation based in Berlin.
+Dual student of computer science (Bachelor) from fall 2025 until probably fall 2028 and with this later on hopefully software engineer - but so far, I'm just a regular casual everyday normal programmer and amateur scientist with a background in graphic design, illustration and animation based in Berlin.
 
 **(+++)** Use of Adobe Creative Cloud programs (especially Photoshop, Lightroom, Illustrator, InDesign, Premiere Pro, After Effects, Dimension, Xd, Bridge), operation of drum machines and synthesizers from the KORG product range;\
 **(++)** Python3, Visual Studio Code, CLIs, UX / UI design, HTML5 and CSS3 web design, social networks, cyber security and IT forensics in theory, Search Engine Optimization (SEO), operating systems: Windows, macOS, Linux;\
