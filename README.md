@@ -11,7 +11,7 @@ Dual student of computer science (Bachelor) from fall 2025 until probably fall 2
 
 In programming, I'm syntactically and algorithmically most advanced in Python3 - here I have learned mainly about functions, variables, conditionals, loops, exceptions, libraries, unit tests, file I/O, regular expressions, object-oriented programming, etc. within multiple online courses;
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cranjah)
+<!-- ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cranjah) -->
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=Cranjah&show_icons=true&count_private=true&line_height=40) -->
 
 
@@ -53,6 +53,9 @@ German (mother tongue), English (fluent);
 
 <details>
   <summary>Click here to view my certificates in computer science!</summary>
+  <span>
+    <img alt="Enrollment Certificate of Berlin School of Economics and Law - Subject: Computer Science" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-00.png" width="703">
+  </span>
   <span>
     <img alt="Vocational Training in Graphic Design - Final Certificate v1" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-02.png" width="350">
   </span>
