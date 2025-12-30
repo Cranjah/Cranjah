@@ -1,6 +1,6 @@
 **[Hobbyist Research & Amateur Science](https://cranjah-hobbyist-research.myportfolio.com/)**
 <span>
-  <img align="right" alt="The most beautiful math formula accordings to scientists: e^(iπ) + 1 = 0" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/eastereggs/formula.svg" width="200">
+  <img align="right" alt="The most beautiful math formula accordings to scientists: e^(iπ) + 1 = 0" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/eastereggs/formula.svg" width="150">
 </span>
 
 ### Informatics Skills
