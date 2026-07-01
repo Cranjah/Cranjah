@@ -114,7 +114,7 @@ German (mother tongue), English (fluent);
     <img alt="Pre-College-Course on Mathematics by University of Würzburg" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-15.png" width="350">
   </span>
   <span>
-    <img alt="Open Online Course on Building AI by University of Helsinki" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-27.png" width="703">
+    <img alt="Pre-College-Course on Mathematics by Technische Hochschule Rosenheim" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-25.png" width="703">
   </span>
   <span>
     <img alt="Open Online Course on Python Programming by University of Helsinki" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-17.png" width="350">
@@ -125,19 +125,19 @@ German (mother tongue), English (fluent);
   <span>
     <img alt="Open Online Course on Elements of AI by University of Helsinki" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-19.png" width="703">
   </span>
-  <span>
+  <!-- <span>
     <img alt="Pre-College-Course on Python Programming by Hasso-Plattner-Institut via openHPI" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-24.png" width="350">
-  </span>
-<!-- <span>
+  </span> -->
+  <span>
     <img alt="Pre-College-Course on Python Programming by Hasso-Plattner-Institut via openHPI" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-22.png" width="350">
   </span>
-  <span>
+  <!-- <span>
     <img alt="Pre-College-Course on Mathematics by Hasso-Plattner-Institut via openHPI" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-23.png" width="350">
   </span> -->
   <span>
     <img alt="Pre-College-Course on Mathematics by Hasso-Plattner-Institut via openHPI" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-21.png" width="350">
   </span>
   <span>
-    <img alt="Pre-College-Course on Mathematics by Technische Hochschule Rosenheim" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-25.png" width="703">
+    <img alt="Open Online Course on Building AI by University of Helsinki" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-27.png" width="703">
   </span>
 </details>
