@@ -63,6 +63,9 @@ German (mother tongue), English (fluent);
     <img alt="Enrollment Certificate of Berlin School of Economics and Law - Subject: Computer Science" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-00.png" width="703">
   </span>
   <span>
+    <img alt="Computer Science for Python Programming by Harvard University via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-26.png" width="703">
+  </span>
+  <span>
     <img alt="Vocational Training in Graphic Design - Final Certificate v1" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-02.png" width="350">
   </span>
   <span>
@@ -109,6 +112,9 @@ German (mother tongue), English (fluent);
   </span>
   <span>
     <img alt="Pre-College-Course on Mathematics by University of Würzburg" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-15.png" width="350">
+  </span>
+  <span>
+    <img alt="Open Online Course on Building AI by University of Helsinki" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-27.png" width="703">
   </span>
   <span>
     <img alt="Open Online Course on Python Programming by University of Helsinki" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-17.png" width="350">
