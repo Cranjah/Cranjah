@@ -93,7 +93,10 @@ German (mother tongue), English (fluent);
     <img alt="Introduction to Programming with Python by Harvard University via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-08.png" width="350">
   </span>
   <span>
-    <img alt="Open Online Course 'Coding Foundations' via Sololearn" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-09.png" width="350">
+    <img alt="Introduction to Cybersecurity by Harvard University via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-28.png" width="350">
+  </span>
+  <span>
+    <img alt="Open Online Course 'Coding Foundations' via Sololearn" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-09.png" width="703">
   </span>
   <span>
     <img alt="Open Online Course 'Introduction to Python' via Sololearn" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-10.png" width="350">
