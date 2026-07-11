@@ -57,6 +57,13 @@ German (mother tongue), English (fluent);
 
 ## Certificates in Computer Science
 
+  <span>
+    <img alt="Introduction to Computer Science by Harvard University via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/eastereggs/cs50x-introduction-to-computer-science.png" width="250">
+  </span>
+  <span>
+    <img alt="Introduction to Programming with Python by Harvard University via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/eastereggs/cs50p-introduction-to-programming-with-python.png" width="250">
+  </span>
+
 <details>
   <summary>Click here to view my certificates in computer science!</summary>
   <span>
