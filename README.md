@@ -5,7 +5,7 @@
 
 ### Informatics Skills
 
-Dual student of computer science (aiming for B. Sc.) from fall 2025 until probably fall 2028 and with this later on hopefully software engineer - but so far, I'm just a regular casual everyday normal programmer and amateur scientist with a background in graphic design, illustration and animation based in Berlin.
+Cooperative student of computer science (who was pursuing B. Sc. degree), from fall 2025 until probably spring 2027 (dropped out from the program due to failing math exams) - with this so far, I'm just a regular casual everyday normal programmer and amateur scientist with a background in graphic design, illustration and animation based in Berlin.
 
 **(+++)** Use of Adobe Creative Cloud programs (especially Photoshop, Lightroom, Illustrator, InDesign, Premiere Pro, After Effects, Dimension, Xd, Bridge), operation of drum machines and synthesizers from the KORG product range;\
 **(++)** Python3, Visual Studio Code, CLIs, UX / UI design, HTML5 and CSS3 web design, social networks, cyber security and IT forensics in theory, Search Engine Optimization (SEO), operating systems: Windows, macOS, Linux;\
