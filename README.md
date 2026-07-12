@@ -11,7 +11,7 @@ Cooperative student of computer science (who was pursuing B. Sc. degree), from f
 **(++)** Python3, Visual Studio Code, CLIs, UX / UI design, HTML5 and CSS3 web design, social networks, cyber security and IT forensics in theory, Search Engine Optimization (SEO), operating systems: Windows, macOS, Linux;\
 **(+)** So far only beginner's knowledge of these programming and query languages: Flask, C, JavaScript, SQL, MySQL;
 
-In programming, I'm syntactically and algorithmically most advanced in Python3 - here I have learned mainly about functions, variables, conditionals, loops, exceptions, libraries, unit tests, file I/O, regular expressions, object-oriented programming, etc. within multiple online courses;
+In programming, I'm syntactically and algorithmically most advanced in Python3 - here I have learned mainly about functions, variables, conditionals, loops, exceptions, libraries, unit tests, file I/O, regular expressions, object-oriented programming, web-programming / web-development etc. within multiple online courses;
 
 <!-- ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cranjah) -->
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=Cranjah&show_icons=true&count_private=true&line_height=40) -->
