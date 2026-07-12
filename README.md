@@ -58,13 +58,13 @@ German (mother tongue), English (fluent);
 ## Certificates in Computer Science
 
   <span>
-    <img alt="Membership Badge in Gold by Mensa International" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/eastereggs/mensa-member-gold-badge.png" width="250">
-  </span>
-  <span>
     <img alt="Introduction to Computer Science by Harvard University via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/eastereggs/cs50x-introduction-to-computer-science.png" width="250">
   </span>
   <span>
     <img alt="Introduction to Programming with Python by Harvard University via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/eastereggs/cs50p-introduction-to-programming-with-python.png" width="250">
+  </span>
+  <span>
+    <img alt="Membership Badge in Gold by Mensa International" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/eastereggs/mensa-member-gold-badge.png" width="250">
   </span>
 
 <details>
