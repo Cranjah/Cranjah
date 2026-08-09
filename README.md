@@ -98,13 +98,13 @@ German (mother tongue), English (fluent);
     <img alt="Open Online Course on Fighting Cybercrime by Friedrich-Alexander-University" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-07.png" width="703">
   </span>
   <span>
-    <img alt="Introduction to Computer Science by Harvard University via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-20.png" width="703">
+    <img alt="Introduction to Computer Science by Harvard University via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-20-2.png" width="703">
   </span>
   <span>
-    <img alt="Introduction to Programming with Python by Harvard University via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-08.png" width="350">
+    <img alt="Introduction to Programming with Python by Harvard University via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-08-2.png" width="350">
   </span>
   <span>
-    <img alt="Introduction to Cybersecurity by Harvard University via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-28.png" width="350">
+    <img alt="Introduction to Cybersecurity by Harvard University via edX" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-28-2.png" width="350">
   </span>
   <span>
     <img alt="Open Online Course 'Coding Foundations' via Sololearn" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/images/Certificates-IT-MMMuench-09.png" width="703">
