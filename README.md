@@ -1,4 +1,4 @@
-**[Hobbyist Research & Amateur Science](https://cranjah-hobbyist-research.myportfolio.com/)**
+<!-- **[Hobbyist Research & Amateur Science](https://cranjah-hobbyist-research.myportfolio.com/)** -->
 <span>
   <img align="right" alt="The most beautiful math formula accordings to scientists: e^(iπ) + 1 = 0" src="https://raw.githubusercontent.com/Cranjah/Cranjah/main/eastereggs/formula.svg" width="150">
 </span>
@@ -49,11 +49,11 @@ German (mother tongue), English (fluent);
 
 ### Particularly known for...
 
-...solving the MissingNo. riddle in the Pokémon versions Red and Blue for the Nintendo Game Boy. The Pokémon No. 000 (MissingNo.) was inspired by medical sonography during a pneumothorax examination, as there is the so-called Seashore-Sign in M-Mode in normal findings; [See hobby scientific article for my findings (written in German)](https://cranjah-hobbyist-research.myportfolio.com/the-missingno-mystery)
+<!-- ...solving the MissingNo. riddle in the Pokémon versions Red and Blue for the Nintendo Game Boy. The Pokémon No. 000 (MissingNo.) was inspired by medical sonography during a pneumothorax examination, as there is the so-called Seashore-Sign in M-Mode in normal findings; [See hobby scientific article for my findings (written in German)](https://cranjah-hobbyist-research.myportfolio.com/the-missingno-mystery)  -->
 
-...writing a first-of-its-kind academic paper about the mechanics and effects of gacha games and especially Pokémon TCG Pocket. In my literature research about gacha games, I povide insights to the effects of one of the most impactful mobile games of the years 2024 / 2025; [See hobby scientific article for my findings (written in German)](https://cranjah-hobbyist-research.myportfolio.com/mechanics-of-gacha-games)
+<!-- ...writing a first-of-its-kind academic paper about the mechanics and effects of gacha games and especially Pokémon TCG Pocket. In my literature research about gacha games, I povide insights to the effects of one of the most impactful mobile games of the years 2024 / 2025; [See hobby scientific article for my findings (written in German)](https://cranjah-hobbyist-research.myportfolio.com/mechanics-of-gacha-games)  -->
 
-...trying to solve the P-NP-Problem and especially the Traveling Salesperson Problem (TSP) with an algorithmic approach first and then with declaring that P ≠ NP regarding to a mathematical proof attempt, observing the linear regression in the coordinate system of ℝ^2; [See hobby scientific article for my findings (written in German)](https://cranjah-hobbyist-research.myportfolio.com/traveling-salesman-problem)
+...trying to solve the P-NP-Problem and especially the Traveling Salesperson Problem (TSP) with an algorithmic approach first and then with declaring that P ≠ NP regarding to a mathematical proof attempt, observing the linear regression in the coordinate system of ℝ^2; [See hobby scientific article for my findings (written in German)](https://github.com/Cranjah/Casual-TSP-Iterations)
 
 
 ## Certificates in Computer Science
